@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./images/ifpb-esp.png" alt="IFPB">
+</p>
 
 # Resolução de Exercícios - Programação em Dispositivos Móveis (PDM)
 
@@ -8,16 +10,12 @@ Este repositório reúne uma série de atividades desenvolvidas durante a discip
 
 O objetivo do repositório é registrar o progresso das práticas realizadas em sala, explorando os fundamentos do desenvolvimento mobile com foco em aplicações modernas, interativas e escaláveis.
 
-## 📚 Conteúdos Abordados
+## 📁 Organização
 
-Durante as atividades, são explorados temas como:
+O repositório está organizado por diretórios nomeados conforme o exercício ou aula. Dentro de cada pasta há os arquivos e códigos relacionados à atividade correspondente.
 
-- Criação de interfaces com React Native
-- Componentes reutilizáveis
-- Navegação entre telas
-- Gerenciamento de estado
-- Comunicação com APIs
-- Boas práticas com TypeScript
+- [Atividade-1](./gerenciador-tarefas/)
+- [Atividade-2](./calculadora/)
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -25,13 +23,6 @@ Durante as atividades, são explorados temas como:
 - **Framework:** React Native
 - **Plataforma:** Expo
 - **Editor:** Visual Studio Code
-
-## 📁 Organização
-
-O repositório está organizado por diretórios nomeados conforme o exercício ou aula. Dentro de cada pasta há os arquivos e códigos relacionados à atividade correspondente.
-
-- [Atividade-1](./gerenciador-tarefas/)
-- [Atividade-2](./calculadora/)
 
 ## 🚀 Como Executar
 
