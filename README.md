@@ -16,6 +16,7 @@ O repositório está organizado por diretórios nomeados conforme o exercício o
 
 - [Atividade-1](./gerenciador-tarefas/)
 - [Atividade-2](./calculadora/)
+- [Atividade-3](./tictac-toe/)
 
 ## 🛠 Tecnologias Utilizadas
 
